@@ -5,3 +5,4 @@ I am creating this to test GitHub techniques in preparation for research at Lehi
 
 Edits:
 1. Edited file to observe changes to the repository.
+2. Edited file on local machine in preparation for pushing to GitHub
